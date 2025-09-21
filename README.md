@@ -1,4 +1,4 @@
-# Expense Splitter
+# FairShare (Expense Splitter)
 
 This web application helps you and your friends or roommates track shared expenses and settle up easily.  It was designed as a moderately complex sophomore‑level project to demonstrate full‑stack development skills without becoming overwhelming.  The app allows you to add participants, log expenses, and see who owes whom at a glance.  A dark mode toggle and modern styling make it look polished while still approachable.
 
